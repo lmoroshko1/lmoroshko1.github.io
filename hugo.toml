@@ -1,4 +1,4 @@
-baseurl = "https://lmoroshko1.github.io/blog/"
+baseurl = "https://lmoroshko1.github.io/"
 title = "Liana's Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
@@ -123,13 +123,13 @@ home = ["HTML", "RSS", "Algolia"]
   
   [[params.additional_menus]]
   title =  "ARCHIVE"
-  href =  "blog/archive"
+  href =  "/archive/"
   [[params.additional_menus]]
   title =  "NOTES"
-  href =  "blog/notes"
+  href =  "/notes/"
   [[params.additional_menus]]
   title =  "ABOUT"
-  href =  "blog/about"
+  href =  "/about/"
 
 [outputFormats.Algolia]
 baseName = "algolia"
