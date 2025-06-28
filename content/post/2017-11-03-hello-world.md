@@ -1,7 +1,7 @@
 ---
 layout:     post 
 title:      "Welcome to the Dog Blog"
-subtitle:   "Hello World, Hello Blog"
+subtitle:   "The Two Paws Corner"
 date:       2017-11-04
 author:     "赵化冰"
 URL: "/2017/11/03/hello-world/"

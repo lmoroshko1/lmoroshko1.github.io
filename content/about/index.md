@@ -4,15 +4,11 @@ multilingual: true
 ---
 
 ## About Me
-**_Liana Moroshkoi_** is a software architect, an Istio Member and an ONAP PTL. He has a solid experience in the information and telecommunication technology industry for more than 17 years. 
+**_Liana Moroshko_** Hello friends, welcome to my blog! Let me tell you a little bit about myself before we get started. I am a Babson College graduate and lifelong dog lover with a particular passion for Australian Shepherds. Inspired by my mother's work in inpatient oncology, I have always been driven to help patients and those in need, indirectly. You might be wondering why a business school student would be writing a blog about dogs. The honest truth - even though I've interacted with lots of canines, I have never been a dog owner myself (yet!). It seems like life always had other plans, but that dream has never left me. Rather than feeling sorry for myself, I became a dedicated reader, researching all things dog, challenging incorrect opinions and viewpoints. All of my curiosity being rooted in a deep repect for responsible pet ownership. All this to say, I decided to start this blog out of a pure passion to connect with fellow canine lovers. I am so excited to grow this vibrant, paw-enthusiastic community together. Whether you're a fellow Aussie fan or just a dog enthusiast, there's something here for you. And rest assured, it seems like recently life is lining up just exactly the way it should be!
 
-Throughout his career, he has built a number of large-scale, cross-country software systems, most of them are still running in production. 
+Rest assured, all my content is based on well-reputed, credible sources. Every statement includes links so you can dive deeper if you're curious! 
 
-He loves open source and has been contributing to various open source projects, he is a member of Istio,  previous PTL of ONAP, the author of the Hugo clean-white theme and the open source project Aeraki Mesh.  
 
-He also has strong interests in various technical topics such as Cloud Native, Artificial Intelligence, Cryptocurrencies, Smart Home, etc. He love sharing his ideas about these things in his blog.
-
-Huabing holds a BSc in Computer Science and Technology from Chongqing University in China. 
 
 Currently, Huabing works as a senior engineer at [Tencent Cloud](https://cloud.tencent.com/) and also wears the hat of PTL in ONAP open source project. For now, his main focus is to build a managed service mesh solution on cloud.
 

@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "936f7928c72bcf29",
+    "type": "split",
+    "children": [
+      {
+        "id": "118270c99bf9376b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4d634cf82b87dc5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02aa19e9c34972b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "19c0a2d8b2cf4814",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55671df402ecae78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "36f1bc76bf00bd91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7df043761facbe73",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d29845132976ab4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b05b4ea5a4b0f4c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad1749ad5541a0b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8b6026bf158997d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4e83e03f4f38aefa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "829b5c170a745f51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e4d634cf82b87dc5",
+  "lastOpenFiles": [
+    "public/img/sidebar_pic.jpg",
+    "static/img/sidebar_pic.jpg",
+    "content/post/2025-06-22-blogging-with-my-boyfriend.md",
+    "Forever.md",
+    "public/img/australian_shepherd_dog.gif",
+    "static/img/australian_shepherd_dog.gif",
+    "static/img/australian_shepherd_dog.gif.crdownload",
+    "public/img/aussie_banner_crop.jpg",
+    "static/img/aussie_banner_crop.jpg",
+    "public/img/dog_404.jpg",
+    "static/img/dog_404.jpg",
+    "static/img/dog_404.jpg.crdownload",
+    "public/img/aussie_banner.jpg",
+    "static/img/aussie_banner.jpg",
+    "static/img/aussie_banner.jpg.crdownload"
+  ]
+}
