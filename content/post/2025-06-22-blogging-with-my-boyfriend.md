@@ -10,7 +10,7 @@ image:      "img/richard-brutyo-Sg3XwuEpybU-unsplash.jpg"
 
 # Welcome to The Four Paws Corner: Where Dogs and Dollars Meet
 
-![Banner image of a happy, goofy dog with a quirky expression – ideally one that feels warm and inviting](img/richard-brutyo-Sg3XwuEpybU-unsplash.jpg)
+![Banner image of a happy, goofy dog with a quirky expression – ideally one that feels warm and inviting](/img/richard-brutyo-Sg3XwuEpybU-unsplash.jpg)
 
 Hello there, and welcome to **The Four Paws Corner** – your new favorite place for all things dogs.
 
@@ -19,6 +19,11 @@ I’m so excited you’re here. Whether you’re a first-time dog parent, a seas
 ## How It All Started
 
 ![Personal photo or playful image of a Mini Aussie puppy](image-placeholder-mini-aussie.jpg)
+
+**Search**
+![aussie](/img/australian_shepherd_dog.gif)
+
+<!--->![image_name](/img/image_name.jpg)<--->
 
 It all began on a casual stroll through New York City. My boyfriend and I wandered into Citipups – a flashy pet store packed with puppies of every breed. One pup in particular caught my eye: a Miniature Australian Shepherd. That miniature merle with piercing blue eyes had me completely smitten… and the rest is history.
 
