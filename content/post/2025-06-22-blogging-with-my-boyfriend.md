@@ -10,7 +10,10 @@ image:      "img/richard-brutyo-Sg3XwuEpybU-unsplash.jpg"
 
 # Welcome to The Four Paws Corner: Where Dogs and Dollars Meet
 
-![Banner image of a happy, goofy dog with a quirky expression – ideally one that feels warm and inviting](/img/richard-brutyo-Sg3XwuEpybU-unsplash.jpg)
+
+<p align="center">
+<img src="/img/richard-brutyo-Sg3XwuEpybU-unsplash.jpg" width="375" height="1500" border="10"/>
+</p>
 
 Hello there, and welcome to **The Four Paws Corner** – your new favorite place for all things dogs.
 
@@ -21,7 +24,7 @@ I’m so excited you’re here. Whether you’re a first-time dog parent, a seas
 ![Personal photo or playful image of a Mini Aussie puppy](image-placeholder-mini-aussie.jpg)
 
 **Search**
-![aussie](/img/australian_shepherd_dog.gif)
+![aussie](/img/snowaussie.png)
 
 <!--->![image_name](/img/image_name.jpg)<--->
 
@@ -31,8 +34,8 @@ While I’d never purchase from a store like Citipups now (I’ve since learned 
 
 ## What This Blog Is Really About
 
-![Collage of different dog breeds, sizes, and activities](image-placeholder-collage.jpg)
 
+![avif_test](/img/Australian-Shepherd.avif)
 Even though Aussies hold a special place in my heart, this blog is for every dog and every dog lover. From Golden Retrievers to goofy mutts to the misunderstood Chihuahua, this space is a celebration of *all* pups. Here’s what you can expect:
 
 - **Training Tips That Actually Work:** Positive reinforcement methods, behavior insights, and what to do when your dog insists on barking at the wind.
@@ -45,6 +48,8 @@ Even though Aussies hold a special place in my heart, this blog is for every dog
 ## Why You Can Trust What You Read Here
 
 ![Flat lay of open laptop, notepad, and coffee mug labeled “research mode” with paw prints nearby](image-placeholder-research.jpg)
+
+![Collage of different dog breeds, sizes, and activities](/img/dogcreditcard.jpg)
 
 This blog is fueled by curiosity and grounded in research. I’m here to share personal stories, yes – but always backed by credible sources like veterinarians, dog trainers, behaviorists, and trusted organizations, including:
 
@@ -60,21 +65,10 @@ Every post will include references or links at the bottom so you can explore mor
 
 And while I haven’t welcomed a pup into my home just yet, I’m actively preparing to grow our little family with a furry companion sometime soon. This blog isn’t just a collection of information – it’s a shared journey. I hope you’ll stick around and experience all the moments with me, from budgeting to behavior tips to the day I finally bring home that wagging tail.
 
-## What Does Dog Ownership Really Cost?
-
-Owning a dog is one of the most rewarding decisions you can make—but it’s also a significant financial commitment. U.S.-based data consistently shows that:
-
-- **Annual costs** can range from **$1,000 to $2,000**, depending on size, breed, health, and lifestyle. 
-- **First-year expenses** (including adoption/purchase, vaccinations, gear, and training) can run **$1,050 to over $4,000**.
-- **Lifetime costs** typically land between **$20,000 and $55,000** over a dog’s 10–15 year lifespan.
-
-The largest recurring expenses include vet care, food, grooming, and emergency planning. Health insurance (optional, but growing in popularity) averages around **$62/month** or **$749/year**. Grooming can range from **$360–$1,080 annually**, and boarding, pet-sitting, and training each bring additional costs depending on your needs.
-
-These aren’t just numbers—they’re budgeting considerations that can shape your entire pet experience. That’s why I dedicate so much space to cost breakdowns, product value comparisons, and savings strategies. Think of this blog as your trusted, money-smart dog companion. 🐶💰
 
 ## Join Me (and the Pack!)
 
-![Picture of dogs playing in a park, or a pup curled up with a book](image-placeholder-dogs.jpg)
+![Picture of dogs playing in a park, or a pup curled up with a book](/img/c-d-peeking.AVIF)
 
 This blog isn’t just about me – it’s about *us*. I want to hear from you. What questions do you have? What weird thing does your dog do that you're too embarrassed to Google? Drop a comment, share your stories, and become part of a community of dog lovers just trying to do their best.
 
@@ -107,6 +101,6 @@ Liana 🐾
 
 ### Call to Action
 **Tell me: what would you love to see on the blog next?**  
-Leave a comment below or message me on Instagram [@TwoPawsCorner](https://www.instagram.com/TwoPawsCorner/)!
+Leave a comment below or message me on Instagram [@FourPawsCorner](https://www.instagram.com/FourPawsCorner/)!
 
 
