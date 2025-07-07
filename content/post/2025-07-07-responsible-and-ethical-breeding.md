@@ -1,7 +1,7 @@
 ---
 layout:     post 
 title:      "Navigating Responsible and Ethical Dog Breeding"
-subtitle:   "Introduction"
+subtitle:   "First Post"
 date:       2025-07-07
 author:     "Liana Moroshko"
 URL: "/2025/07/07/responsible-and-ethical-breeding/"
